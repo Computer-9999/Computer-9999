@@ -2,9 +2,9 @@
 - 👀 I’m interested in ..
 >> HTML5, CSS, JavaScript, Python, GS code, 
 >> Websockets, REST APIs
->> learning the Crypto space
+>> presently learning all about the Crypto space
 
-- 🌱 I’m currently learning ...[all of above]
+- 🌱 I’m currently learning ...[see all of above]
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
